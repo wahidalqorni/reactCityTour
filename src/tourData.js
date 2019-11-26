@@ -30,5 +30,14 @@ export const tourData = [
     name: "tokyo sushi tour",
     info:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur, nam omnis error corrupti eum assumenda enim odit architecto corporis. Sequi"
+  },
+  {
+    id: 5,
+    city: "madinah",
+    img: "./img/madinahtour.jpeg",
+    name: "nabawi mosque",
+    info:
+      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur, nam omnis error corrupti eum assumenda enim odit architecto corporis. Sequi"
   }
+
 ];
