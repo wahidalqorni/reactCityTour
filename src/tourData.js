@@ -33,7 +33,7 @@ export const tourData = [
   },
   {
     id: 5,
-    city: "madinah",
+    city: "makkah",
     img: "./img/madinahtour.jpg",
     name: "nabawi mosque",
     info:
